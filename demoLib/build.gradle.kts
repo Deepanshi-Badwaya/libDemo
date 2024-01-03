@@ -49,7 +49,7 @@ afterEvaluate {
             create<MavenPublication>("maven") {
                 groupId = "com.github.Deepanshi-Badwaya"
                 artifactId = "demoLib"
-                version = "1.0.0"
+                version = "1.0.2"
             }
         }
     }
